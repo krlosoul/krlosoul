@@ -5,7 +5,10 @@ Senior Software Developer
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=11+Years+of+Experience+Building+Scalable+Systems;Expert+in+.NET%2C+Angular+and+Cloud+Solutions;Passionate+About+Clean+Code+and+Best+Practices;Mentor+and+Agile+Advocate" alt="Typing SVG" /> 
 </p>
 
-🌟 With over 11 years of experience as a Senior Software Developer, I specialize in designing and implementing high-performance, scalable applications using .NET, Angular, and PHP. My expertise spans across backend development, database design, and frontend implementation, with a strong focus on clean code, best practices, and agile methodologies like Scrum and Kanban.
+🌟 With over 11 years of experience as a Senior Software Developer, I specialize in designing and implementing high-performance, scalable applications using .NET and Angular.
+
+My expertise spans across backend development, database design, and frontend implementation, with a strong focus on clean code, best practices, and agile methodologies like Scrum and Kanban.
+
 I have led backend development teams and delivered impactful solutions across diverse industries, including healthcare, education, public services, and real estate. My passion lies in solving complex problems, optimizing systems, and staying ahead of the latest technological trends.
 
 ## Skills
